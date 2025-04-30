@@ -112,6 +112,12 @@ docker-compose down
 docker-compose ps
 ~~~
 
+#### Acessar o container:
+
+~~~
+docker-compose exec app bash
+~~~
+
 ## Exemplos de Arquivos
 
 #### Estrutura básica de um Dockerfile
