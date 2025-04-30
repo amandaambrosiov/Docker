@@ -5,8 +5,8 @@ Docker é uma plataforma de código aberto que automatiza o processo de constru�
 ## Instalação
 
 ### Windows: 
+[Docker Desktop for Windows ]([https://github.com](https://docs.docker.com/desktop/setup/install/windows-install/))
 
-Docker Desktop for Windows 
 > Necessário instalar WSL no Windows. 
 ~~~
 wsl --install
